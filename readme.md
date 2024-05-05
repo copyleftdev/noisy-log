@@ -23,13 +23,7 @@ Using Noisy Log introduces:
 ### Prerequisites
 - Python 3.6 or newer
 
-### Installation
-Clone and set up Noisy Log:
-```
-git clone https://github.com/copyleftdev/noisy-log.git
-cd noisy-log
-pip install .
-```
+
 
 ### Usage
 Deploy obfuscation with the `EscapeFuzzer` class from `libs\escape_fuzz.py`:
